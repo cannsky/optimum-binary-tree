@@ -4,9 +4,6 @@
 #include <math.h>
 
 /*
-	Name: Can
-	Surname: Gök
-	Student Number: 150118014
 	
 	Program Definition: A program which creates two binary trees of word order and frequency optimum order from the words
 	that has been given to program with input.txt file in the same directory. The program uses alphabetical and height calculation
